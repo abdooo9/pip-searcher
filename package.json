@@ -1,0 +1,32 @@
+{
+  "name": "pip-searcher",
+  "version": "1.0.0",
+  "description": "pip packages searcher",
+  "keywords": [
+    "pip-api",
+    "pip",
+    "pip-search",
+    "pip searcher",
+    "pip packages",
+    "python",
+    "package searcher"
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/abdooo9/pip-searcher#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdooo9/pip-searcher.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdooo9",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/abdooo9/pip-searcher/issues"
+  }
+}

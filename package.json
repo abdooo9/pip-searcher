@@ -1,6 +1,6 @@
 {
   "name": "pip-searcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pip packages searcher",
   "keywords": [
     "pip-api",
